@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+cd app || exit
+yarn commitlint -g ./commitlint.config.ts --edit "${1}"

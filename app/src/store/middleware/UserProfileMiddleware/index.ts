@@ -1,0 +1,1 @@
+export { UserProfileMiddleware } from './UserProfileMiddleware'
